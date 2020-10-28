@@ -1,3 +1,5 @@
+test
+
 /.github/                 export-ignore
 /test/                    export-ignore
 /.editorconfig            export-ignore
